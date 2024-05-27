@@ -21,6 +21,15 @@ In this notebook, I will attempt at implementing a few recommendation algorithms
 
 Dataset Source: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
+**Visualizations:**
+
+[Movie Analysis Dashboard](https://public.tableau.com/shared/FW96MF497?:display_count=n&:origin=viz_share_link)
+1. [Top 10 Popular Movies](https://public.tableau.com/shared/PD2G2SQ49?:display_count=n&:origin=viz_share_link)
+2. [Top 10 Grossing Movies](https://public.tableau.com/shared/6TWKRSD79?:display_count=n&:origin=viz_share_link)
+3. [Revenue Over Years](https://public.tableau.com/shared/NMPNR8B96?:display_count=n&:origin=viz_share_link)
+4. [Budget Over Years](https://public.tableau.com/shared/582PXXNH8?:display_count=n&:origin=viz_share_link)
+5. [Top 10 Highest Paying Directors](https://public.tableau.com/shared/Y6QX9TWTW?:display_count=n&:origin=viz_share_link)
+
 **Conclusion**:
 
 In this notebook, I have built 4 different recommendation engines based on different ideas and algorithms. They are as follows:

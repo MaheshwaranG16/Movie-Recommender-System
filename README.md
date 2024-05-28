@@ -1,18 +1,18 @@
-# Movie Recommender System
+# MOVIE RECOMMENDER SYSTEM
  
-**Overview**:
+## Overview
 
 Welcome to the Movie Recommender System repository, where we explore and develop personalized movie recommendation algorithms using various machine learning techniques. A movie recommender system is a type of information filtering tool that helps users discover movies that match their tastes and preferences. These systems analyze various types of data to provide personalized recommendations.
 
-**Business Problem**:
+## Business Problem
 
 The entertainment industry thrives on engaging audiences with content that matches their preferences. A robust movie recommender system enhances user experience by providing personalized movie suggestions, which increases user satisfaction and engagement. By analysing user behaviour and movie attributes, we can uncover patterns and develop algorithms to predict user preferences, ultimately driving higher viewership and retention rates.
 
-**Imported Libraries**:
+## Imported Libraries
 
 The data wrangling process is documented in the Movie_Recommender_Analysis.ipynb Python script. The provided code imports essential libraries and modules for developing a movie recommender system. It includes Pandas and NumPy for data manipulation and analysis, Matplotlib and Seaborn for data visualization, and SciPy for statistical operations. The ast module's literal_eval is used for safely evaluating expressions. Scikit-learn is employed for feature extraction and similarity calculations, particularly using TfidfVectorizer, CountVectorizer, linear_kernel, and cosine_similarity. NLTK is utilized for text processing with tools like SnowballStemmer and WordNetLemmatizer. Finally, the Surprise library facilitates building and evaluating recommender systems with functionalities such as Reader, Dataset, SVD, and accuracy measurement, alongside cross-validation and dataset splitting tools. This comprehensive setup enables efficient data preprocessing, feature extraction, model building, and performance evaluation for a movie recommendation system.
 
-**Datasets:**
+## Datasets
 
 In this notebook, I will attempt at implementing a few recommendation algorithms (content based, popularity based and collaborative filtering) and try to build an ensemble of these models to come up with our final recommendation system. With us, we have two MovieLens datasets.
 
@@ -21,7 +21,7 @@ In this notebook, I will attempt at implementing a few recommendation algorithms
 
    Dataset Source: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
-**Visualizations:**
+## Visualizations
 
 [Movie Analysis Dashboard](https://public.tableau.com/shared/FW96MF497?:display_count=n&:origin=viz_share_link)
 1. [Top 10 Popular Movies](https://public.tableau.com/shared/PD2G2SQ49?:display_count=n&:origin=viz_share_link)
@@ -30,7 +30,7 @@ In this notebook, I will attempt at implementing a few recommendation algorithms
 4. [Budget Over Years](https://public.tableau.com/shared/582PXXNH8?:display_count=n&:origin=viz_share_link)
 5. [Top 10 Highest Paying Directors](https://public.tableau.com/shared/Y6QX9TWTW?:display_count=n&:origin=viz_share_link)
 
-**Conclusion**:
+## Conclusion
 
 In this notebook, I have built 4 different recommendation engines based on different ideas and algorithms. They are as follows:
 1.	Simple Recommender: This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. The IMDB Weighted Rating System was used to calculate ratings on which the sorting was finally performed.

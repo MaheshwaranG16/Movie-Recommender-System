@@ -23,12 +23,12 @@ In this notebook, I will attempt at implementing a few recommendation algorithms
 
 ## Visualizations
 
-[Movie Analysis Dashboard](https://public.tableau.com/shared/FW96MF497?:display_count=n&:origin=viz_share_link)
-1. [Top 10 Popular Movies](https://public.tableau.com/shared/PD2G2SQ49?:display_count=n&:origin=viz_share_link)
-2. [Top 10 Grossing Movies](https://public.tableau.com/shared/6TWKRSD79?:display_count=n&:origin=viz_share_link)
-3. [Revenue Over Years](https://public.tableau.com/shared/NMPNR8B96?:display_count=n&:origin=viz_share_link)
-4. [Budget Over Years](https://public.tableau.com/shared/582PXXNH8?:display_count=n&:origin=viz_share_link)
-5. [Top 10 Highest Paying Directors](https://public.tableau.com/shared/Y6QX9TWTW?:display_count=n&:origin=viz_share_link)
+[Movie Analysis Dashboard](https://public.tableau.com/views/MoviesAnalysis_17167362818790/MovieAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1. [Top 10 Popular Movies](https://public.tableau.com/views/MoviesAnalysis_17167362818790/Popularitybased?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2. [Top 10 Grossing Movies](https://public.tableau.com/views/MoviesAnalysis_17167362818790/Gross?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+3. [Revenue Over Years](https://public.tableau.com/views/MoviesAnalysis_17167362818790/RevenueOv_Year?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+4. [Budget Over Years](https://public.tableau.com/views/MoviesAnalysis_17167362818790/BudgetOv_Year?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+5. [Top 10 Highest Paying Directors](https://public.tableau.com/views/MoviesAnalysis_17167362818790/HighPayDir?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
 
